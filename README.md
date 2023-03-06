@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# GPT-3 Fully Responsive Modern UI/UX  Website in React JS 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Front-End Project using React JS, HTML and CSS.
 
-## Available Scripts
+## Website Info
 
-In the project directory, you can run:
+This website is structure with a Navigation bar, Header, Brand section, WhatGPT3 section, Features section, Possibility section, Call to Action section, Blog section and a Footer.
 
-### `npm start`
+The Web Design was created by adrianhajdin.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This Project uses the Fundamentals of the CSS BEM Model.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Navigation Bar
 
-### `npm test`
+This section contains some buttons that take you to specific parts of the site and a Sign In and Sign Up.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Header
 
-### `npm run build`
+This section contains a few text, images and a write your email address box with a button.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Brand 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This section contains a few brands of companies that uses the GPT-3. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### WhatGPT3
 
-### `npm run eject`
+This section contains a few text explaning what GPT-3 is and a button to explore the library.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Features
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This section contains a few text explaning the features of GPT-3.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Possibility and Call to Action
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+These sections contains a text explaning the possibilities and a Call to Action for you register and get the early access of GPT-3.
 
-## Learn More
+### Blog
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This section contains 5 news about GPT-3 like a blog.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Footer
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section contains the copyright and a few info of the company.
